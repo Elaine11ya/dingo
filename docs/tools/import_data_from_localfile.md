@@ -22,7 +22,7 @@ The content of files can be in CSV or JSON format. In CSV mode, the content of i
 
 - Prepare data in CSV format with header
 
-![](../images/import_data_using_csv_with_header.png)
+![](../en/images/import_data_using_csv_with_header.png)
 
 - Import Data
 
@@ -39,11 +39,11 @@ The arguments about import command are as follows:
 - separator: separator between columns
 - use-header: content with header
 
-![](../images/start_import_data_using_csv_with_header.png)
+![](../en/images/start_import_data_using_csv_with_header.png)
 
 > the `import.sh` can be found in `dingo.zip`
 
 
 ## 3. Check Result
 
-![](../images/check_import_data_using_csv_with_header.png)
+![](../en/images/check_import_data_using_csv_with_header.png)

@@ -36,11 +36,11 @@ The arguments about import command are as follows:
 - topic: the source topic of Kafka
 - schema-registry-url: the address of the schema registry
 
-![](../images/import_data_using_kafka.jpg)
+![](../en/images/import_data_using_kafka.jpg)
 
 > the `import.sh` can be found in `dingo.zip`
 
 
 ## 3. Check Result
 
-![](../images/check_import_data_using_kafka.jpg)
+![](../en/images/check_import_data_using_kafka.jpg)
